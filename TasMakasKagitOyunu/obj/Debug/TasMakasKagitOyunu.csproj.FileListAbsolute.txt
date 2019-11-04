@@ -1,0 +1,11 @@
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\bin\Debug\TasMakasKagitOyunu.exe.config
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\bin\Debug\TasMakasKagitOyunu.exe
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\bin\Debug\TasMakasKagitOyunu.pdb
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.csprojAssemblyReference.cache
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.Form1.resources
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.Form2.resources
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.Properties.Resources.resources
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.csproj.GenerateResource.cache
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.exe
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.pdb
+C:\Users\metins\source\repos\TasMakasKagitOyunu\TasMakasKagitOyunu\obj\Debug\TasMakasKagitOyunu.Form3.resources
